@@ -1,0 +1,17 @@
+img { border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center {
+  text-align: center;
+  border: 1px SlateBlue;
+  font-size:20px
+}
+.text {
+	text-align: center;
+  font-size:15px
+}
